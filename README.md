@@ -1,46 +1,28 @@
-# Getting Started with Create React App and Redux
+# Slack App Clone Project
+# Website: https://slack-clone-zach.firebaseapp.com/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
+## Login Page  
+![图片](https://user-images.githubusercontent.com/110039861/234634684-3f616f92-2bc8-4d4d-9bb0-57546f1712b3.png)
 
-In the project directory, you can run:
+## Main Page : user can select or create their own topic, click the item to enter the chat channel
+![图片](https://user-images.githubusercontent.com/110039861/234634849-d94fa24e-fd21-41fe-a2d6-193de7310c37.png)
 
-### `npm start`
+## Chat Page:  create a new channel called "React Learning" and enter it
+![图片](https://user-images.githubusercontent.com/110039861/234635466-7b5f46c9-86ad-40d5-97d1-bb013a3a5a08.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Message Page:  multiple users can chat at the same time, group discussing
+![图片](https://user-images.githubusercontent.com/110039861/234636002-dc079b20-fb79-4769-97cf-1729b622d2e6.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+# Component: 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## This project was bootstrapped with [React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) as template.
 
-### `npm run build`
+## Using firebase as the server for implementing hosting, storage and authentication
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Using material-ui as the resource of multiple icons and labels
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
