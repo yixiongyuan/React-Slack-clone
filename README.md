@@ -17,11 +17,7 @@
 
 # Component: 
 
-## This project was bootstrapped with [React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) as template.
-
-## Using firebase as the server for implementing hosting, storage and authentication
-
-## Using material-ui as the resource of multiple icons and labels
+## This project was bootstrapped with [React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) as template.  Using [Firebase](https://firebase.google.com/) as the server for implementing hosting, storage and authentication.  Using [Material-ui](https://mui.com/) as the resource of multiple icons and labels
 
 
 
